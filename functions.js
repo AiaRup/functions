@@ -126,4 +126,4 @@ var printSmallNumber = function(arr, number) {
 };
 var resultArr = printSmallNumber([1,5,9,13,56,78], 10);
 
-// Trying git and branches
+// Trying git and branches with 2 branches
